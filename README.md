@@ -1,6 +1,6 @@
 # Internationalization (i18n) Puzzles
 
-This repository contains my solutions for the [International Puzzles](https://i18n-puzzles.com).
+This repository contains my solutions for the [Internationalisation Puzzles](https://i18n-puzzles.com).
 
 | # | Thematic                                                                      | Solution                                                                               | Input                                                                                        |
 |--:|:------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------:|
