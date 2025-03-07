@@ -4,7 +4,7 @@ This repository contains my solutions for the [International Puzzles](https://i1
 
 | # | Thematic                                                                      | Solution                                                                               | Input                                                                                        |
 |--:|:------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------:|
-| 1 | [Length limits on messaging platforms](https://i18n-puzzles.com/puzzle/1/)    | [🌍](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_01/solver_01.py) | [📗]((https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_01/user_input_01.txt)) |
+| 1 | [Length limits on messaging platforms](https://i18n-puzzles.com/puzzle/1/)    | [🌍](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_01/solver_01.py) | [📗](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_01/user_input_01.txt) |
 | 2 | 
 | 3
 | 4

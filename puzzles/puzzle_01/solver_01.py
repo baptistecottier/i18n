@@ -1,4 +1,4 @@
-"""Internationalization Puzzles - Day 01"""
+"""Internationalization Puzzles - Day 01 - Length limits on messaging platforms"""
 
 
 def solver(messages):
