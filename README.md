@@ -6,7 +6,7 @@ This repository contains my solutions for the [Internationalisation Puzzles](htt
 |--:|:------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------:|
 | 1 | [Length limits on messaging platforms](https://i18n-puzzles.com/puzzle/1/)    | [🌍](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_01/solver_01.py) | [📗](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_01/user_input_01.txt) |
 | 2 | [Detecting gravitational waves       ](https://i18n-puzzles.com/puzzle/2/)    | [🌍](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_02/solver_02.py) | [📗](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_02/user_input_02.txt) |
-| 3 
+| 3 | [Unicode passwords                   ](https://i18n-puzzles.com/puzzle/3/)    | [🌍](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_03/solver_03.py) | [📗](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_03/user_input_03.txt) |
 | 4
 | 5
 | 6
