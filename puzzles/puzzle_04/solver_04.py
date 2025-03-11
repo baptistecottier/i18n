@@ -12,7 +12,7 @@ def preprocessing(puzzle_input: str):
     times = []
     months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
               "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
-    
+
     for flight in puzzle_input.splitlines():
         if flight == '':
             continue
