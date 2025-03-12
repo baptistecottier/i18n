@@ -2,6 +2,7 @@
 
 import sys
 import os
+import builtins
 
 if __name__ == '__main__':
     day = sys.argv[1].zfill(2)
@@ -21,11 +22,19 @@ if __name__ == '__main__':
         user_input = module.preprocessing(user_input)
         test_input = module.preprocessing(test_input)
 
-    computed_test_answer = str(module.solver(test_input))
-    if  computed_test_answer == expected_test_answer:
+    def solver(data):
+        """
+        Call module's solver with data, unpacking if data is a tuple.
+        """
+        if isinstance(test_input, builtins.tuple):
+            return str(module.solver(*data))
+        return str(module.solver(data))
+
+    COMPUTED_TEST_ANSWER = solver(test_input)
+    if  str(COMPUTED_TEST_ANSWER) == expected_test_answer:
         print("Test passed ✅")
-        print("User answer:", module.solver(user_input))
+        print("User answer:", solver(user_input))
     else:
         print("Test failed ❌. "
-              f"Your answer: {computed_test_answer}. "
+              f"Your answer: {COMPUTED_TEST_ANSWER}. "
               f"Expected answer: {expected_test_answer}")
