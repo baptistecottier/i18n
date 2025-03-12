@@ -9,7 +9,7 @@ This repository contains my solutions for the [Internationalisation Puzzles](htt
 | 3 | [Unicode passwords                   ](https://i18n-puzzles.com/puzzle/3/)    | [🌍](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_03/solver_03.py) | [📗](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_03/user_input_03.txt) |
 | 4 | [A trip around the world             ](https://i18n-puzzles.com/puzzle/4/)    | [🌍](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_04/solver_04.py) | [📗](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_04/user_input_04.txt) |
 | 5 | [Don't step on it...                 ](https://i18n-puzzles.com/puzzle/5/)    | [🌍](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_05/solver_05.py) | [📗](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_05/user_input_05.txt) |
-| 6
+| 6 | [Mojibake puzzle dictionnary         ](https://i18n-puzzles.com/puzzle/6/)    | [🌍](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_06/solver_06.py) | [📗](https://github.com/baptistecottier/i18n/blob/main/puzzles/puzzle_06/user_input_06.txt) |
 | 7
 | 8 
 | 9
