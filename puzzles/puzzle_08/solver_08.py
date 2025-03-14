@@ -1,4 +1,7 @@
+"""Internationalization Puzzles - Day 08 - Unicode passwords redux"""
+
 from unidecode import unidecode
+
 
 def preprocessing(puzzle_input):
     """Preprocess puzzle input by lowercasing and removing accents from each line."""
@@ -26,7 +29,7 @@ def solver(passwords):
         'k', 'l', 'm', 'n', 'p', 'q', 'r',
         's', 't', 'v', 'w', 'x', 'y', 'z',
         )
-    
+
     for pw in passwords:
         if all((
             4 <= len(pw) <= 12,
@@ -37,4 +40,3 @@ def solver(passwords):
         )):
             cnt += 1
     return cnt
-
